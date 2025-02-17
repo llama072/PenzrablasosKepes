@@ -88,6 +88,7 @@ function kep(selectCity, demoSpan, imageDiv) {
 
 
     // végül cseréljük ki az imageDiv tartalmát az új képre
+    //HALOHEY🦙//
 
     imageDiv.replaceChildren(kep);
     
